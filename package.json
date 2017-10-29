@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/praida/Message#readme",
   "dependencies": {
-    "praida-styles": "git+ssh://git@github.com:praida/styles.git"
+    "praida-styles": "git+ssh://git@github.com/praida/styles.git"
   }
 }
