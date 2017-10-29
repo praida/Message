@@ -1,0 +1,22 @@
+{
+  "name": "praida-message",
+  "version": "1.0.0",
+  "description": "Notification component for Praida",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praida/Message.git"
+  },
+  "author": "Shawn Inder <shawninder@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/praida/Message/issues"
+  },
+  "homepage": "https://github.com/praida/Message#readme",
+  "dependencies": {
+    "praida-styles": "git+ssh://git@github.com:praida/styles.git"
+  }
+}
